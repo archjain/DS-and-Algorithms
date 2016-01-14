@@ -51,14 +51,14 @@ public class MergeSort {
 				j++;
 			}
 		}
-		for (int p = 0; p < A.length; p++)
-			System.out.println(p + "::" + A[p]);
 		return A;
 
 	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
 		int[] A = { 1, 2, 3, 5, 2, 4, 6 };
 		MergeSort m = new MergeSort();
 

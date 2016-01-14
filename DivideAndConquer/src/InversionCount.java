@@ -1,3 +1,6 @@
+
+/*Returns the number of pairs of integers(i,j) where j>i*/
+
 public class InversionCount {
 
 	public int count(int[] A) {
