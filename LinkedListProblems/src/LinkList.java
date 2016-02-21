@@ -15,7 +15,7 @@ public class LinkList {
 		}
 
 	}
-
+     
 	public void insertLoop(int loopIndex) {
 		int i = 0;
 		Node temp = head;
